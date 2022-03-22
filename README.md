@@ -1,2 +1,2 @@
 # bugMaster
-University project for INFM315
+Android University project for INFM315
